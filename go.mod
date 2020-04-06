@@ -1,4 +1,4 @@
-module github.com/grpcuser
+module github.com/go-zs/grpcuser
 
 go 1.14
 
